@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2E6DA4&center=true&vCenter=true&width=600&lines=Osama+Mohammed;SOC+Analyst+%7C+Cybersecurity+Professional;Threat+Detection+%7C+Incident+Response+%7C+GRC;Ajax%2C+Ontario%2C+Canada+%F0%9F%87%A8%F0%9F%87%A6" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2E6DA4&center=true&vCenter=true&width=600&lines=Osama+Mohammed;SOC+Analyst+%7C+Cybersecurity+Professional;Threat+Detection+%7C+Incident+Response+%7C+GRC;Ontario%2C+Canada+%F0%9F%87%A8%F0%9F%87%A6" alt="Typing SVG" />
 
 </div>
 
@@ -150,7 +150,7 @@ GRC audit templates including an Active Directory password policy checklist and 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-mohammed--osama00-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammed-osama00)
 [![Email](https://img.shields.io/badge/Email-osamamohd52%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:osamamohd52@gmail.com)
-[![Location](https://img.shields.io/badge/Location-Ajax%2C_Ontario%2C_Canada-2E6DA4?style=for-the-badge&logo=googlemaps&logoColor=white)](https://maps.google.com/?q=Ajax,Ontario,Canada)
+[![Location](https://img.shields.io/badge/Location-Ontario%2C_Canada-2E6DA4?style=for-the-badge&logo=googlemaps&logoColor=white)](https://maps.google.com/?q=Ontario,Canada)
 
 ---
 
