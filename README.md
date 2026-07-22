@@ -134,18 +134,6 @@ GRC audit templates including an Active Directory password policy checklist and 
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-![Mohammed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohammed-osama00&show_icons=true&theme=default&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammed-osama00&layout=compact&hide_border=true&theme=default)
-
-</div>
-
----
-
 ## Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-mohammed--osama00-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammed-osama00)
