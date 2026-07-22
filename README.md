@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2E6DA4&center=true&vCenter=true&width=600&lines=Mohammed+Osama;SOC+Analyst+%7C+Cybersecurity+Professional;Threat+Detection+%7C+Incident+Response+%7C+GRC;Ajax%2C+Ontario%2C+Canada+%F0%9F%87%A8%F0%9F%87%A6" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2E6DA4&center=true&vCenter=true&width=600&lines=Osama+Mohammed;SOC+Analyst+%7C+Cybersecurity+Professional;Threat+Detection+%7C+Incident+Response+%7C+GRC;Ajax%2C+Ontario%2C+Canada+%F0%9F%87%A8%F0%9F%87%A6" alt="Typing SVG" />
 
 </div>
 
@@ -8,12 +8,12 @@
 
 ## About Me
 
-M.IT Security graduate from **Ontario Tech University** — one of Canada's first CISSP-aligned IT Security programs. Focused on defensive security: SOC operations, threat detection, SIEM monitoring, incident response, and GRC compliance.
+Master of IT Security graduate from **Ontario Tech University**, one of Canada's first CISSP-aligned IT Security programs. Focused on defensive security: SOC operations, threat detection, SIEM monitoring, incident response, and GRC compliance.
 
 - 🛡️ **CompTIA Security+** certified | **ISC2 Certified in Cybersecurity (CC)** holder
 - 🎓 **Master of Information Technology Security** — Ontario Tech University
 - 🔍 Currently pursuing **Microsoft SC-200: Security Operations Analyst**
-- 💼 Open to SOC Analyst, Security Analyst, and GRC roles in **Ontario, Canada**
+- 💼 Open to SOC Analyst, Security Analyst, and GRC roles in **Canada**
 - 📫 **osamamohd52@gmail.com** | [LinkedIn](https://linkedin.com/in/mohammed-osama00)
 
 ---
