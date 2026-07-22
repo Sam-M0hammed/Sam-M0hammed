@@ -23,14 +23,14 @@ Master of IT Security graduate from **Ontario Tech University**, one of Canada's
 | Certification | Issuer | Status |
 |---|---|---|
 | ![Security+](https://img.shields.io/badge/CompTIA-Security%2B-red?style=flat-square&logo=comptia) | CompTIA | ✅ Certified · 2026 |
-| ![ISC2 CC](https://img.shields.io/badge/ISC2-Certified_in_Cybersecurity_(CC)-blue?style=flat-square) | ISC2 | ✅ Certified · Jun 2026 – Jun 2029 |
+| ![ISC2 CC](https://img.shields.io/badge/ISC2-Certified_in_Cybersecurity_(CC)-blue?style=flat-square) | ISC2 | ✅ Certified · Jun 2026 |
 | ![SC-200](https://img.shields.io/badge/Microsoft-SC--200-0078D4?style=flat-square&logo=microsoft) | Microsoft | 🔄 In Progress |
+| ![Space](https://img.shields.io/badge/Ontario_Tech_+_SCA-Foundations_of_Space_%26_Cybersecurity-teal?style=flat-square) | Ontario Tech + SCA | ✅ Completed · Apr 2026 |
 | ![GRC](https://img.shields.io/badge/ThinkCloudly-IT_Auditing_%26_GRC-green?style=flat-square) | ThinkCloudly | ✅ Completed · Jun 2025 |
 | ![AWS](https://img.shields.io/badge/AWS-Cloud_Fundamentals-FF9900?style=flat-square&logo=amazonaws) | ThinkCloudly | ✅ Completed · Jun 2025 |
 | ![Mastercard](https://img.shields.io/badge/Forage-Mastercard_Cybersecurity_Simulation-orange?style=flat-square) | Forage | ✅ Completed · Mar 2025 |
 | ![AIG](https://img.shields.io/badge/Forage-AIG_Shields_Up_Simulation-darkblue?style=flat-square) | Forage | ✅ Completed · Mar 2025 |
 | ![Pathsetter](https://img.shields.io/badge/Pathsetter-Cybersecurity_Professional_(6_months)-purple?style=flat-square) | Pathsetter | ✅ Completed · 2024 |
-| ![Space](https://img.shields.io/badge/Ontario_Tech_+_SCA-Foundations_of_Space_%26_Cybersecurity-teal?style=flat-square) | Ontario Tech + SCA | ✅ Completed · Apr 2026 |
 
 ---
 
