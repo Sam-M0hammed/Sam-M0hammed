@@ -30,76 +30,23 @@ Compliance (GRC).
 
 # 💻 Technical Skills
 
-## Security Operations
+**🛡️ Security Operations:** SIEM Monitoring • Threat Detection • Incident Response • Threat Hunting • Log Analysis
 
--   SIEM Monitoring
--   Threat Detection
--   Incident Response
--   Threat Hunting
--   Log Analysis
+**📊 SIEM:** Splunk • Wazuh • Microsoft Sentinel • ELK Stack
 
-## SIEM
+**🌐 Networking:** TCP/IP • DNS • DHCP • Routing • Switching • VPN • Firewalls • QoS • Congestion Control
 
--   Splunk
--   Wazuh
--   Microsoft Sentinel (Learning)
--   ELK Stack
+**🔍 Security Assessment:** Nmap • Nessus • OpenVAS • Wireshark • OWASP Top 10
 
-## Networking
+**☁️ Cloud & Identity:** Azure • AWS • IAM
 
--   TCP/IP
--   Routing
--   Switching
--   DNS
--   DHCP
--   VPN
--   Firewalls
--   QoS
--   Congestion Control
+**📋 GRC:** ISO 27001 • NIST CSF • NIST SP 800-53 • PCI DSS • Risk Assessment • Security Policies
 
-## Vulnerability Assessment
+**🖥️ Operating Systems:** Windows • Linux • Kali Linux • Ubuntu
 
--   Nmap
--   Nessus
--   OpenVAS
--   OWASP Top 10
+**💻 Programming:** Python • Bash • PowerShell • SQL
 
-## Cloud & Identity
-
--   Microsoft Azure
--   AWS
--   IAM
-
-## GRC
-
--   ISO 27001
--   NIST CSF
--   NIST SP 800-53
--   PCI DSS
--   Risk Assessment
--   Security Policies
-
-## Operating Systems
-
--   Windows
--   Linux
--   Kali Linux
--   Ubuntu
-
-## Programming & Scripting
-
--   Python
--   Bash
--   PowerShell
--   SQL
-
-## Tools
-
--   Git
--   GitHub
--   Wireshark
--   VirtualBox
--   VMware
+**⚙️ Tools:** Git • GitHub • VirtualBox • VMware
 
 ------------------------------------------------------------------------
 
