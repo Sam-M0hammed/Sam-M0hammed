@@ -52,7 +52,7 @@ Compliance (GRC).
 
 # 🚀 Featured Projects
 
-## 🛰 CAIEMS --- Space Cybersecurity Architecture
+## 🛰 CAIEMS - Space Cybersecurity Architecture
 
 Designed a cybersecurity architecture for a Canadian CubeSat mission
 using STRIDE, MITRE ATT&CK, Zero Trust, AES-256, and Incident Response
@@ -129,7 +129,6 @@ Osmania University
 -   Detection Engineering
 -   Threat Hunting
 -   Advanced KQL
--   Splunk
 
 ------------------------------------------------------------------------
 
